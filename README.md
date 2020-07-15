@@ -5,5 +5,6 @@ This repository includes configuration files for my digital environment.  It inc
 - Ruby
 
 ## Instructions
-1.  Clone this repository.
-2.  `ruby install.rb`
+```
+ruby install.rb
+```
